@@ -1,1 +1,5 @@
 len("Hello")
+print(type("Hello"))
+print(type(123))
+print(type(12.42))
+print(type(False))
