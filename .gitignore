@@ -1,2 +1,11 @@
 C++/test/main
 assignments
+# C++ compiled executables
+bin/
+
+# C++ object files
+*.o
+*.obj
+
+# macOS system files
+.DS_Store

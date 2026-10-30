@@ -1,0 +1,8 @@
+
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "cpp": "cd \"$workspaceRoot\" && mkdir -p bin && clang++ -std=c++17 \"$fullFileName\" -o \"$workspaceRoot/bin/$fileNameWithoutExt\" && \"$workspaceRoot/bin/$fileNameWithoutExt\""
+    }
+}
