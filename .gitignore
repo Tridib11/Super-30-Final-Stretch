@@ -9,3 +9,5 @@ bin/
 
 # macOS system files
 .DS_Store
+
+.vscode
